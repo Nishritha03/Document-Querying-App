@@ -1,0 +1,5 @@
+streamlit
+sqlalchemy
+cryptography
+pdfplumber
+python-docx
